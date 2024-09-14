@@ -1,4 +1,3 @@
-# Readme
 <h1 align="center">Hi 👋, I'm Atmaja</h1>
 <h3 align="center">A generalist developer from Mumbai</h3>
 
