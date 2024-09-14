@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I'm detail-focused and naturally take the lead in group projects.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
