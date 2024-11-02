@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi there!</h1>
 <p align="center">
-   Currently pursuing an MCA at Vellore Institute of Technology, I am interested in open source and building things together. 
-  As a mentor at GSSOC Extended in collaboration with Hacktober Fest, I help contributors and learn as I go. Always open to connecting 
-  — let’s work on something cool ✨
+  I'm Currently pursuing MCA at Vellore Institute of Technology. Interested in open source and building things together. Let’s collaborate on something exciting ✨
 </p>
 
 <p align="center">
