@@ -1,13 +1,13 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://i.postimg.cc/XYNkhdZn/cat.jpg" alt="Banner Image" width="100%" height="60%">
+  <img src="https://i.postimg.cc/xd49bwJB/cat-2.png" alt="Banner Image" width="100%">
 </p>
 
 <h1 align="center">Hi there!</h1>
 <p align="center">
    Currently pursuing an MCA at Vellore Institute of Technology, I am interested in open source and building things together. 
   As a mentor at GSSOC Extended in collaboration with Hacktober Fest, I help contributors and learn as I go. Always open to connecting 
-  — let’s work on something cool!✨
+  — let’s work on something cool ✨
 </p>
 
 <p align="center">
