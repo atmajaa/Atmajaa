@@ -1,7 +1,4 @@
 <!-- Banner image -->
-<p align="center">
-  <img src="https://i.postimg.cc/xd49bwJB/cat-2.png" alt="Banner Image" width="100%">
-</p>
 
 <h1 align="center">Hi there!</h1>
 <p align="center">
