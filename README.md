@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>Atmaja Pitale ✧₊⁺</h1>
-        <p>Final-year MCA student at Vellore Institute of Technology. I enjoy figuring things out.</p>
+        <p>I enjoy figuring things out. Final-year MCA student at Vellore Institute of Technology. </p>
     </header>
         <h2>Languages and Tools</h2>
         <p>
@@ -65,6 +65,6 @@
         </p>
         <h2>Say hi 🐾</h2>
         <p>While you're here, my cat sends a judgy hi 👋</p>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZuZ2R3bm0ydjduMXQ4dmt3NWx1a2VhdjZxNWM2ZXA0OXRjbm1hcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJPwLkrqYLtbsd1j6U/giphy.gif" alt="Cat GIF" width="150" height="270"/>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZuZ2R3bm0ydjduMXQ4dmt3NWx1a2VhdjZxNWM2ZXA0OXRjbm1hcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJPwLkrqYLtbsd1j6U/giphy.gif" alt="Cat GIF" width="220" height="400"/>
 </body>
 </html>
